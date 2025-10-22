@@ -1,2 +1,2 @@
 # vinicius-araujo-estudo
-aprendendo e praticando
+Aprendendo e praticando
